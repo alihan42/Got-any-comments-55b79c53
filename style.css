@@ -1,0 +1,18 @@
+
+input{
+	border-radius: 30px; 
+}
+/*Selects any <input> when focused */
+input{
+	color: red; 
+}
+textarea{
+	border: dashed red 2px; 
+}
+/*Selects any <input> when focused */
+textarea:focus{
+	border-color: green; 
+}
+div {
+	color: red; 
+}
